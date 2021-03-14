@@ -1,0 +1,23 @@
+/*************************TAG SELECTOR*************************/
+
+body {
+  background-color: #fbe6c2;
+}
+
+h1 {
+  color: #ac0d0d;
+}
+
+h3 {
+  color: #ac0d0d;
+}
+
+hr {
+  border: dotted #f0c929 6px;
+  border-bottom: none;
+  width: 4%;
+  margin: 20px auto;
+}
+
+
+/*************************CLASS SELECTOR*************************/
